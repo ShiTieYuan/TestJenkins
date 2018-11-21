@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\05_Study\\13.Jenkins\\dotnetCoreJenkins\\dotnetCoreJenkins\\dotnetCoreJenkins.csproj",
+      "projectUniqueName": "E:\\05_Study\\13.Jenkins\\TestJenkins\\dotnetCoreJenkins\\dotnetCoreJenkins.csproj",
       "projectName": "dotnetCoreJenkins",
-      "projectPath": "E:\\05_Study\\13.Jenkins\\dotnetCoreJenkins\\dotnetCoreJenkins\\dotnetCoreJenkins.csproj",
+      "projectPath": "E:\\05_Study\\13.Jenkins\\TestJenkins\\dotnetCoreJenkins\\dotnetCoreJenkins.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\05_Study\\13.Jenkins\\dotnetCoreJenkins\\dotnetCoreJenkins\\obj\\",
+      "outputPath": "E:\\05_Study\\13.Jenkins\\TestJenkins\\dotnetCoreJenkins\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
